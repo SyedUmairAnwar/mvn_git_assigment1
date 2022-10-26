@@ -19,6 +19,13 @@
        <artifactId>spring-core</artifactId>
        <version>5.3.23</version>
     </dependency>
+    <!-- https://mvnrepository.com/artifact/org.yaml/snakeyaml -->
+    <dependency>
+        <groupId>org.yaml</groupId>
+        <artifactId>snakeyaml</artifactId>
+        <version>1.33</version>
+    </dependency>
+
   </dependencies>
   <build>
     <finalName>asssigment_mvn_git</finalName>
